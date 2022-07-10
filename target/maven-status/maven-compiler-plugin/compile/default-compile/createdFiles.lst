@@ -1,0 +1,6 @@
+com\awstest\DynamoDbSpringBootDemo\repository\EmployeeRepository.class
+com\awstest\DynamoDbSpringBootDemo\controller\EmployeeController.class
+com\awstest\DynamoDbSpringBootDemo\entity\Department.class
+com\awstest\DynamoDbSpringBootDemo\config\DynamoDbConfiguration.class
+com\awstest\DynamoDbSpringBootDemo\DynamoDbSpringBootDemoApplication.class
+com\awstest\DynamoDbSpringBootDemo\entity\Employee.class
