@@ -1,0 +1,1 @@
+Transaction(id=3b4628bb-6429-4765-ab70-895e0cd9d03c, transactionAmount=2.0, sourceAccountId=1a022844-b6b1-4d49-b9d8-c597d773eeef, destinationAccountId=efc4c491-893a-4505-a752-6fe4012db2de, wasSuccessful=true, date=Mon Jul 11 22:24:30 BRT 2022)
